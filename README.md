@@ -14,4 +14,6 @@
 - 📫 You can reach me through email or LinkedIn. Please feel free to contact me for any job-related opportunities.
 - ⚡ Fun fact: When I'm not coding, I enjoy playing musical instruments and experimenting with new recipes in the kitchen.
 
-![giphy](https://github.com/zubayermunna/zubayermunna/assets/108220804/fcccf4b7-9105-4978-99ef-05c8ab1de280)
+<p align="center">
+  <img src="https://github.com/zubayermunna/zubayermunna/assets/108220804/fcccf4b7-9105-4978-99ef-05c8ab1de280" alt="giphy" />
+</p>
