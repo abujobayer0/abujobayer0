@@ -15,5 +15,6 @@
 - ⚡ Fun fact: When I'm not coding, I enjoy playing musical instruments and experimenting with new recipes in the kitchen.
 
 
-
-![59c8cf9d35f8ea6dd6ae7cd9ff6cb054](https://github.com/zubayermunna/zubayermunna/assets/108220804/b5ecf01c-c56b-4d62-a688-ea634c40d722)
+<p align="center">
+  <img src="https://github.com/zubayermunna/zubayermunna/assets/108220804/b5ecf01c-c56b-4d62-a688-ea634c40d722" alt="Image" />
+</p>
