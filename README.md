@@ -91,20 +91,6 @@ I’m a **passionate Full Stack Developer** specializing in **React, Node.js, AI
 
 ---
 
-## 🔥 My Best Projects  
-
-### 🎨 [Plexifly – Real-time Collaboration Tool](https://github.com/abujobayer0/Plexifly)  
-🚀 **Next.js 15 + TailwindCSS + Clerk Auth + Liveblocks**  
-🖍️ A **powerful whiteboard tool** with real-time collaboration, sticky notes, freehand drawing, and role-based authentication.  
-🔗 **Live Demo**: [Click here](#)  
-
-### 🏨 Hotel Booking System  
-🏆 Designed a **fully functional hotel booking platform**  
-📊 **30% faster** booking process with **automated workflows**  
-🔗 **Source Code**: [Private Repository]  
-
----
-
 ## 📬 Connect With Me  
 
 📍 **Location:** Bogura, Bangladesh  
