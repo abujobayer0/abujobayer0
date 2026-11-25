@@ -23,20 +23,27 @@ I’m a **passionate Full Stack Developer** specializing in **React, Node.js, AI
 
 ---
 
-## 🏆 Notable Achievements  
+## 🏆 Notable Achievements
 
-**Lochplace Rentables** | Senior Software Engineer & Software Architect  
+### Lochplace Rentables
+**Senior Software Engineer & Software Architect**
 
-Built the company's entire platform from the ground up and owned the architecture end to end. Designed it as a multi-tenant SaaS product, so one system serves many companies, each with its own isolated data and access control, and scales as the client base grows.
+- Built the company's entire platform from the ground up and owned the architecture end to end
+- Designed it as a multi-tenant SaaS product, so one system serves many companies, each with its own isolated data and access control
+- Architected for scale, so the platform grows with the client base without being rebuilt
 
-🔥 **Purple Transform Limited** | Full Stack Developer (Remote)  
-✔️ Revamped the **Siyte app dashboard & widgets**, boosting user engagement by **30%**  
-✔️ Developed a **hotel booking tool**, increasing operational efficiency by **40%**  
-✔️ Led **full-cycle development** of scalable web applications  
+### Purple Transform Limited
+**Full Stack Developer** · Remote
 
-🔥 **Qwik IT Canada** | Frontend Developer Internship (Remote)  
-✔️ Built and optimized **React/React Native applications** for a citizenship app  
-✔️ Enhanced UI/UX stability and performance, driving **higher user satisfaction**  
+- Revamped the Siyte app dashboard and widgets, boosting user engagement by 30%
+- Developed a hotel booking tool, increasing operational efficiency by 40%
+- Led full-cycle development of scalable web applications
+
+### Qwik IT Canada
+**Frontend Developer, Internship** · Remote
+
+- Built and optimised React and React Native applications for a citizenship app
+- Improved UI/UX stability and performance, raising user satisfaction
 
 ---
 
