@@ -82,6 +82,8 @@ I’m a **passionate Full Stack Developer** specializing in **React, Node.js, AI
 ![JWT / JOSE](https://img.shields.io/badge/JWT%20/%20JOSE-%23000000.svg?style=flat&logo=jsonwebtokens&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-%233C8AA3.svg?style=flat)
 ![Clerk](https://img.shields.io/badge/Clerk-%236C47FF.svg?style=flat&logo=clerk&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-%23D63E2B.svg?style=flat)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat&logo=rabbitmq&logoColor=white)
 
 ### 🔹 Databases & Data  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
@@ -92,6 +94,8 @@ I’m a **passionate Full Stack Developer** specializing in **React, Node.js, AI
 ![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=flat&logo=prisma&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-%23C5F74F.svg?style=flat&logo=drizzle&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=flat&logo=mongoose&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat&logo=elasticsearch&logoColor=white)
 
 ### 🔹 AI & ML  
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-%23D97757.svg?style=flat&logo=anthropic&logoColor=white)
@@ -116,6 +120,12 @@ I’m a **passionate Full Stack Developer** specializing in **React, Node.js, AI
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket%20Pipelines-%230052CC.svg?style=flat&logo=bitbucket&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-%232B037A.svg?style=flat&logo=pm2&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=flat&logo=cloudflare&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=flat&logo=railway&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-%2324175B.svg?style=flat&logo=flydotio&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-%23362D59.svg?style=flat&logo=sentry&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
 
 ### 🔹 Testing & Quality  
 ![Vitest](https://img.shields.io/badge/Vitest-%236E9F18.svg?style=flat&logo=vitest&logoColor=white)
@@ -123,6 +133,7 @@ I’m a **passionate Full Stack Developer** specializing in **React, Node.js, AI
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=flat&logo=jest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=flat&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=white)
+![k6](https://img.shields.io/badge/k6-%237D64FF.svg?style=flat&logo=k6&logoColor=white)
 
 ### 🔹 Tools  
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
