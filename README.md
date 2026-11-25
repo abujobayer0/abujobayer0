@@ -1,4 +1,5 @@
-<h1 align="center">🚀 Abu Talha Md Jobayer | Full Stack Developer 🚀</h1>
+<h1 align="center">Abu Talha Md Jobayer</h1>
+<p align="center">Full Stack Software Engineer</p>
 
 <p align="center">
   <a href="https://github.com/abujobayer0"><img src="https://img.shields.io/github/followers/abujobayer0?style=social"></a>
