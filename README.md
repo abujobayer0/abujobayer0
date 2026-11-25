@@ -8,9 +8,9 @@
 
 ---
 
-## 💡 About Me  
+## 💡 About Me
 
-I’m a **passionate Full Stack Developer** specializing in **React, Node.js, AI-powered applications, and scalable backend systems**. I build high-performance, cutting-edge applications that **blend efficiency, creativity, and problem-solving** to drive business success.
+I design and build complete systems — frontend, backend, data and infrastructure — and own them from the first decision through to production.
 
 🚀 **What I Do Best**
 
