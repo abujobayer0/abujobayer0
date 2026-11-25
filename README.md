@@ -12,14 +12,16 @@
 
 I’m a **passionate Full Stack Developer** specializing in **React, Node.js, AI-powered applications, and scalable backend systems**. I build high-performance, cutting-edge applications that **blend efficiency, creativity, and problem-solving** to drive business success.
 
-🚀 **What I Do Best:**  
-- **Frontend Magic** ✨: Intuitive, pixel-perfect UIs with **React, Next.js, React Native**  
-- **Backend Power** 🔥: Scalable, high-performance APIs with **Node.js, Express.js, FastAPI**  
-- **Database Mastery** 🗄️: Efficient data handling using **MongoDB, PostgreSQL, DynamoDB**  
-- **AI & Innovation** 🤖: Leveraging **OpenAI & Google AI APIs** for smarter solutions  
-- **Cloud & DevOps** ☁️: Deploying & optimizing apps with **AWS, Vercel, Docker**  
+🚀 **What I Do Best**
 
-💡 **I thrive on challenges and love turning complex problems into seamless user experiences.**  
+- **Architecture** — systems designed to scale with your business, not be rebuilt a year later
+- **Frontend** — fast, polished interfaces in React, Next.js and React Native
+- **Backend** — secure, reliable APIs with auth, permissions and background work handled
+- **Data** — data modelled to stay fast as it grows, on MongoDB, PostgreSQL or DynamoDB
+- **AI** — Claude, OpenAI and Voyage embeddings put to work: search, retrieval, assistants
+- **Cloud & DevOps** — shipped on AWS with monitoring, so issues surface before your users report them
+
+💡 I take ownership from first architecture decision to production — one person accountable for the whole system.
 
 ---
 
