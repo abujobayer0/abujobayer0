@@ -34,11 +34,6 @@ I’m a **passionate Full Stack Developer** specializing in **React, Node.js, AI
 ✔️ Built and optimized **React/React Native applications** for a citizenship app  
 ✔️ Enhanced UI/UX stability and performance, driving **higher user satisfaction**  
 
-🔥 **Plexifly – Real-time Collaboration Tool**  
-✔️ Designed a **Next.js 15-powered** whiteboard for seamless team collaboration  
-✔️ Integrated **live syncing, real-time authentication, and advanced drawing tools**  
-✔️ Achieved **99.9% uptime**, reducing latency and ensuring smooth teamwork  
-
 ---
 
 ## 🛠 Tech Stack  
