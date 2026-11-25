@@ -25,6 +25,10 @@ I’m a **passionate Full Stack Developer** specializing in **React, Node.js, AI
 
 ## 🏆 Notable Achievements  
 
+**Lochplace Rentables** | Senior Software Engineer & Software Architect  
+
+Built the company's entire platform from the ground up and owned the architecture end to end. Designed it as a multi-tenant SaaS product, so one system serves many companies, each with its own isolated data and access control, and scales as the client base grows.
+
 🔥 **Purple Transform Limited** | Full Stack Developer (Remote)  
 ✔️ Revamped the **Siyte app dashboard & widgets**, boosting user engagement by **30%**  
 ✔️ Developed a **hotel booking tool**, increasing operational efficiency by **40%**  
